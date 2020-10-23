@@ -42,5 +42,5 @@ I do have a moderation bot, but its only 200 lines of code. And thus not up to t
 
 ## Contributing to this Topic:
 Be sure to make your own, we will have guides posted soon!
-Make a fork and simply email me the hack at `nigamanth.srivatsan@gmail.com`
+Make a fork and simply email me the hack at `nigamanth.srivatsan@gmail.com` :D
 If your code gets approved we will give you credit and upload!
